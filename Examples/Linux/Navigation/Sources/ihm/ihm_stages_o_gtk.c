@@ -236,8 +236,11 @@ void opticalFlow(IplImage* frame, float* dx, float *dy)
     char featureFound[100];
     float featureError[100];
     cvCvtColor(frame, curgray, CV_BGR2GRAY);
-    cvGoodFeaturesToTrack(pregray, eigimage, tmpimage, precorners, &cornerCount, 0.01, 10.0, 0, 3, 0, 0.04);
-    cvCalcOpticalFlowPyrLK(pregray, curgray, prepyr, curpyr, precorners, curcorners, cornerCount, cvSize(15,15), 5, featureFound, featureError, cvTermCriteria(CV_TERMCRIT_ITER|CV_TERMCRIT_EPS, 20, .3), 0);
+    if(pregray != NULL)
+    {
+         cvGoodFeaturesToTrack(pregray, eigimage, tmpimage, precorners, &cornerCount, 0.01, 10.0, 0, 3, 0, 0.04);
+         cvCalcOpticalFlowPyrLK(pregray, curgray, prepyr, curpyr, precorners, curcorners, cornerCount, cvSize(15,15), 5, featureFound, featureError, cvTermCriteria(CV_TERMCRIT_ITER|CV_TERMCRIT_EPS, 20, .3), 0);
+    }
     int i;
     for(i=0; i<cornerCount; i++)
     {
@@ -296,7 +299,7 @@ C_RESULT output_gtk_stage_transform(vp_stages_gtk_config_t *cfg, vp_api_io_data_
     if (image_vision_window_view != WINDOW_VISIBLE) return SUCCESS;
 
 
-    gdk_threads_enter(); //http://library.gnome.org/devel/gdk/stable/gdk-Threads.html
+    gdk_threads_enter(); // http://library.gnome.org/devel/gdk/stable/gdk-Threads.html
     static struct timeval tvPrev = {0, 0}, tvNow = {0, 0};
     static int nbFramesForCalc = 1;
 #define CALCULATE_EVERY_X_FRAMES 10
@@ -324,54 +327,59 @@ C_RESULT output_gtk_stage_transform(vp_stages_gtk_config_t *cfg, vp_api_io_data_
     //IplImage *img = ipl_image_from_data(pixbuf_data,1,STREAM_WIDTH,STREAM_HEIGHT);
     //pthread_mutex_lock(&mutex);
     //pthread_mutex_unlock(&mutex);
-    cvCvtColor(img,img, CV_RGB2BGR);
+    if(img != NULL)
+    {
+          //cvCvtColor(img,img, CV_RGB2BGR);//make color seem strage///
    ////////////////////////////////////////////////////////////////////////////////////////////////
-     float xoffset = 0.0;
-     float yoffset = 0.0;
+          float xoffset = 0.0;
+          float yoffset = 0.0;
 
-    opticalFlow(img, &xoffset, &yoffset);/////////////////////////////////////////////////
-    double cursec1 = getsec2();///////////////////////////////////////////////////
-    IMUdata1122.timeInv = cursec1 - inisec1;///////////////////////////////
-    inisec1 = cursec1;//////////////////////////////////////
-     IMUdata1122.delta_x = xoffset;
-     IMUdata1122.delta_y = yoffset;
-     IMUdata1122.GyrosX = NeedInfo_fromnavdata_1122.GyrosX;
-      IMUdata1122.GyrosY = NeedInfo_fromnavdata_1122.GyrosY;
-      IMUdata1122.GyrosZ = NeedInfo_fromnavdata_1122.GyrosZ;
-      IMUdata1122.AccX = NeedInfo_fromnavdata_1122.AccX;
-      IMUdata1122.AccY = NeedInfo_fromnavdata_1122.AccY;
-      IMUdata1122.AccZ = NeedInfo_fromnavdata_1122.AccZ;//*/
-      fprintf(record_file_11_22, 
-        "%lf  %f  %f  %lf  %lf  %lf  %lf  %lf  %lf\n",
-        IMUdata1122.timeInv,
-        IMUdata1122.delta_x,
-        IMUdata1122.delta_y,
-        IMUdata1122.GyrosX,
-        IMUdata1122.GyrosY,
-        IMUdata1122.GyrosZ,
-        IMUdata1122.AccX,
-        IMUdata1122.AccY,
-        IMUdata1122.AccZ
-         );
+        opticalFlow(img, &xoffset, &yoffset);/////////////////////////////////////////////////
+        double cursec1 = getsec2();///////////////////////////////////////////////////
+        IMUdata1122.timeInv = cursec1 - inisec1;///////////////////////////////
+        inisec1 = cursec1;//////////////////////////////////////
+        IMUdata1122.delta_x = xoffset;
+        IMUdata1122.delta_y = yoffset;
+        IMUdata1122.GyrosX = NeedInfo_fromnavdata_1122.GyrosX;
+        IMUdata1122.GyrosY = NeedInfo_fromnavdata_1122.GyrosY;
+        IMUdata1122.GyrosZ = NeedInfo_fromnavdata_1122.GyrosZ;
+        IMUdata1122.AccX = NeedInfo_fromnavdata_1122.AccX;
+        IMUdata1122.AccY = NeedInfo_fromnavdata_1122.AccY;
+        IMUdata1122.AccZ = NeedInfo_fromnavdata_1122.AccZ;//*/
+        fprintf(record_file_11_22, 
+          "%lf  %f  %f  %lf  %lf  %lf  %lf  %lf  %lf\n",
+          IMUdata1122.timeInv,
+          IMUdata1122.delta_x,
+          IMUdata1122.delta_y,
+          IMUdata1122.GyrosX,
+          IMUdata1122.GyrosY,
+          IMUdata1122.GyrosZ,
+          IMUdata1122.AccX,
+          IMUdata1122.AccY,
+          IMUdata1122.AccZ
+          );
 
   ////////////////////////////////////////////////////////////////////////////////////////////////////////////
-    frameNum++;
-    if(frameNum % 25==0)
-    {
-	//pthread_mutex_lock(&mutex);//mutex
-        char str[30];
-        sprintf(str,"image20160616/%d.jpg",frameNum);
-        //record Info
-        cvSaveImage(str,img,0);
+      frameNum++;
+      if(frameNum % 25==0  && img != NULL)
+      {
+      //pthread_mutex_lock(&mutex);//mutex
+          char str[30];
+          sprintf(str,"image20160616/%d.jpg",frameNum);
+          //record Info
+          cvCvtColor(img,img, CV_RGB2BGR);//save in right color *store and display in different channel 
+          cvSaveImage(str,img,0);
 
        /* fprintf(record_file_6_12,"%d : gyros.X: %d gyros.Y: %d gyros.Z: %d\n",
-	frameNum,
-	NeedInfo_6_12.raw_gyros_X2016,
-	NeedInfo_6_12.raw_gyros_Y2016,
-	NeedInfo_6_12.raw_gyros_Z2016);//*/
+  frameNum,
+  NeedInfo_6_12.raw_gyros_X2016,
+  NeedInfo_6_12.raw_gyros_Y2016,
+  NeedInfo_6_12.raw_gyros_Z2016);//*/
 
-    	//pthread_mutex_unlock(&mutex);//mutex
-    }    //*/
+      //pthread_mutex_unlock(&mutex);//mutex
+       }    //*/
+    }
+    
     
     pixbuf_data = (uint8_t*)img->imageData;
     

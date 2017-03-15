@@ -123,7 +123,8 @@ C_RESULT ardrone_tool_init_custom(void) {
 
     if (IS_ARDRONE2)
     {
-        ardrone_application_default_config.video_codec = H264_720P_CODEC;//H264_360P_CODEC;
+        ardrone_application_default_config.video_codec =H264_720P_CODEC;//  H264_360P_CODEC;
+        //H264_720P_CODEC;//H264_360P_CODEC;
     }
     else
     {
