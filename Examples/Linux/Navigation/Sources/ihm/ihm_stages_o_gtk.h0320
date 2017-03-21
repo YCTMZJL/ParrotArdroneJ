@@ -60,8 +60,6 @@ typedef struct NeedInfo_20161122_innavadata
   //
 }NeedInfo_20161122;
 
-unsigned int curaltitudedata ;
-
 C_RESULT output_gtk_stage_open(vp_stages_gtk_config_t *cfg);
 C_RESULT output_gtk_stage_transform(vp_stages_gtk_config_t *cfg, vp_api_io_data_t *in, vp_api_io_data_t *out);
 C_RESULT output_gtk_stage_close(vp_stages_gtk_config_t *cfg , vp_api_io_data_t *in, vp_api_io_data_t *out);

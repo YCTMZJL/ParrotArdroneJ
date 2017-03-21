@@ -576,6 +576,8 @@ C_RESULT ardrone_navdata_file_process( const navdata_unpacked_t* const pnd )
 			pnd->navdata_altitude.altitude_vz,
 			(int) pnd->navdata_altitude.altitude_ref,
 			(unsigned int) pnd->navdata_altitude.altitude_raw );
+	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+	altitudedata_file= (unsigned int) pnd->navdata_altitude.altitude_raw ;//////////if it need to delete 200//
 
 	fprintf( navdata_file, "; %f; %f; %f; %f; %f; %04u; %f; %f; %04u",
 			pnd->navdata_altitude.obs_accZ,

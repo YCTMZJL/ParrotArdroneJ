@@ -154,7 +154,6 @@ extern int DEBUG_isTcp;
 
 
 extern  NeedInfo_2016 NeedInfo_fromnavdata_1122;
-extern unsigned int altitudedata_file;/////altitude data in navdata
 double inisec1 = 0.0;
 
 
@@ -207,8 +206,6 @@ C_RESULT output_gtk_stage_open(vp_stages_gtk_config_t *cfg)//, vp_api_io_data_t 
       IMUdata1122.AccX =0;
       IMUdata1122.AccY =0;
       IMUdata1122.AccZ=0;
-
-      curaltitudedata = 0;
 
 //////////////////////////////////////////////////////////////
 //optical flow ini
@@ -349,9 +346,8 @@ C_RESULT output_gtk_stage_transform(vp_stages_gtk_config_t *cfg, vp_api_io_data_
         IMUdata1122.AccX = NeedInfo_fromnavdata_1122.AccX;
         IMUdata1122.AccY = NeedInfo_fromnavdata_1122.AccY;
         IMUdata1122.AccZ = NeedInfo_fromnavdata_1122.AccZ;//*/
-        curaltitudedata = altitudedata_file;
         fprintf(record_file_11_22, 
-          "%lf  %f  %f  %lf  %lf  %lf  %lf  %lf  %lf %u\n",
+          "%lf  %f  %f  %lf  %lf  %lf  %lf  %lf  %lf\n",
           IMUdata1122.timeInv,
           IMUdata1122.delta_x,
           IMUdata1122.delta_y,
@@ -360,8 +356,7 @@ C_RESULT output_gtk_stage_transform(vp_stages_gtk_config_t *cfg, vp_api_io_data_
           IMUdata1122.GyrosZ,
           IMUdata1122.AccX,
           IMUdata1122.AccY,
-          IMUdata1122.AccZ,
-          curaltitudedata
+          IMUdata1122.AccZ
           );
 
   ////////////////////////////////////////////////////////////////////////////////////////////////////////////
