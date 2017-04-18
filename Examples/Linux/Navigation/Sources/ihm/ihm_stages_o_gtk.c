@@ -98,10 +98,12 @@ CvPoint2D32f *precorners;
 CvPoint2D32f *curcorners;
 //int xoffset=0;
 //int yoffset=0;
-//#define image_WIDTH 640
-//#define image_HEIGHT 360
-#define image_WIDTH 1280
-#define image_HEIGHT 720
+//**********************************************************
+#define image_WIDTH 640 //if change hdtv360p ; here need to be changed
+#define image_HEIGHT 360
+//#define image_WIDTH  1280
+//#define image_HEIGHT 720
+//******************************************************************
 //////////////////////////////////////////////////////////////////
 extern GtkWidget *ihm_ImageWin, *ihm_ImageEntry[9], *ihm_ImageDA, *ihm_VideoStream_VBox;
 /* For fullscreen video display */
@@ -308,6 +310,10 @@ void opticalFlow(IplImage* frame, int* dx, int *dy)
   //cvShowImage("2", curgray);*/
   cvSaveImage("1.jpg", frame, 0);
   cvSaveImage("2.jpg", curgray, 0);
+  printf("width frame = %d  curgray = %d\n", frame->width, curgray -> width);
+  printf("height frame = %d  curgray = %d\n", frame->height, curgray -> height);
+  printf("channel frame = %d  curgray = %d\n", frame -> nChannels, curgray -> nChannels);
+
   cvCvtColor(frame, curgray, CV_RGB2GRAY);//CV_BGR2GRAY);
   printf ("after cvCvtColor\n");//
   cvGoodFeaturesToTrack(pregray, eigimage, tmpimage, precorners, &cornerCount, 0.01, 10.0, 0, 3, 0, 0.04);
@@ -317,8 +323,8 @@ void opticalFlow(IplImage* frame, int* dx, int *dy)
   {
     if(featureFound[i]==0 || featureError[i]>550)
       continue;
-    CvPoint p0 = cvPoint(cvRound(precorners[i].x), cvRound(precorners[i].y));
-    CvPoint p1 = cvPoint(cvRound(curcorners[i].x), cvRound(curcorners[i].y));
+    CvPoint p0 = cvPoint(cvRound(precorners[i].x), cvRound(precorners[i].y)); // draw
+    CvPoint p1 = cvPoint(cvRound(curcorners[i].x), cvRound(curcorners[i].y)); //draw
     *dx += -curcorners[i].x + precorners[i].x;
     *dy += -curcorners[i].y + precorners[i].y;
 
