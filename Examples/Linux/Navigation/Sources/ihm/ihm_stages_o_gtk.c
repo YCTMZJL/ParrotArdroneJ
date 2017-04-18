@@ -233,65 +233,132 @@ void destroy_image_callback(GtkWidget *widget, gpointer data) {
 char video_information_buffer[1024];
 int video_information_buffer_index = 0;
 //opticalFlow///////////////////////////////////////////////////////////////////////////////////////////////
-void opticalFlow(IplImage* frame, float* dx, float *dy)
+/*void opticalFlow(IplImage* frame, float* dx, float *dy)
 {
+  if(frame == NULL ) 
+  {
+    printf("frame is NULL");
+    return;
+  }
+    printf ("enter optical flow\n");//
     int cornerCount = maxFeatureCount;
     char featureFound[100];
     float featureError[100];
-    cvCvtColor(frame, curgray, CV_BGR2GRAY);
-    if(pregray != NULL)
+    //curgray = frame;//?
+    printf ("enter\n");//
+    //cvSaveImage(curgray, "2.jpg",1);
+    //cvSaveImage(frame, "1.jpg" ,0);
+    
+    cvCvtColor(frame, curgray, CV_RGB2GRAY);//CV_BGR2GRAY);
+    printf ("end cvColor\n");//
+    if( pregray != NULL )
     {
          cvGoodFeaturesToTrack(pregray, eigimage, tmpimage, precorners, &cornerCount, 0.01, 10.0, 0, 3, 0, 0.04);
          cvCalcOpticalFlowPyrLK(pregray, curgray, prepyr, curpyr, precorners, curcorners, cornerCount, cvSize(15,15), 5, featureFound, featureError, cvTermCriteria(CV_TERMCRIT_ITER|CV_TERMCRIT_EPS, 20, .3), 0);
-    }
-    int i;
-    for(i=0; i<cornerCount; i++)
-    {
-        if(featureFound[i]==0 || featureError[i]>550)
-            continue;
-        CvPoint p0 = cvPoint(cvRound(precorners[i].x), cvRound(precorners[i].y)); //draw
-        CvPoint p1 = cvPoint(cvRound(curcorners[i].x), cvRound(curcorners[i].y)); //draw
-        *dx += -curcorners[i].x + precorners[i].x;
-        *dy += -curcorners[i].y + precorners[i].y;
+    //}
+          int i;
+          for(i=0; i<cornerCount; i++)
+          {
+              if(featureFound[i]==0 || featureError[i]>550)
+                  continue;
+              CvPoint p0 = cvPoint(cvRound(precorners[i].x), cvRound(precorners[i].y)); //draw
+              CvPoint p1 = cvPoint(cvRound(curcorners[i].x), cvRound(curcorners[i].y)); //draw
+              *dx += -curcorners[i].x + precorners[i].x;
+              *dy += -curcorners[i].y + precorners[i].y;
 
-        cvCircle(frame, p1, 2, cvScalar(0,255,255,0), 3, 8, 0 ); //draw
-        cvLine(frame, p0, p1, cvScalar(255,0,0,0), 2, 8, 0); //draw
-    }
+             cvCircle(frame, p1, 2, cvScalar(0,255,255,0), 3, 8, 0 ); //draw
+              cvLine(frame, p0, p1, cvScalar(255,0,0,0), 2, 8, 0); //draw
+          }
 
-    if(cornerCount!=0)
-    {
-        *dx = (*dx*1.0)/cornerCount;
-        *dy = (*dy*1.0)/cornerCount;
-    }
-    else
-    {
-        *dx = 0;
-        *dy = 0;
-    }
+          if(cornerCount!=0)
+          {
+              *dx = (*dx*1.0)/cornerCount;
+              *dy = (*dy*1.0)/cornerCount;
+          }
+          else
+          {
+              *dx = 0;
+              *dy = 0;
+          }
 
-     //IMUdata1122.delta_x = *dx;
-     //IMUdata1122.delta_y = *dy;
-    //pregray = curgray;
-    memcpy(pregray->imageData, curgray->imageData, curgray->width*curgray->height);
+          //IMUdata1122.delta_x = *dx;
+          //IMUdata1122.delta_y = *dy;
+          //pregray = curgray;
+          printf("curgray to pregray\n");
+          memcpy(pregray->imageData, curgray->imageData, curgray->width*curgray->height);
+       }
+}*/
+//////////////////////////////////////////////////////
+void opticalFlow(IplImage* frame, int* dx, int *dy)
+{
+   if(frame == NULL ) 
+  {
+    printf("frame is NULL");
+    return;
+  }
+  int cornerCount = maxFeatureCount;
+  char featureFound[100];
+  float featureError[100];
+  printf ("enter optical flow\n");//
+  printf("frame = %d           curgray = %d\n",frame, curgray );
+  printf("frame->data = %ld           curgray->data = %ld\n" ,frame->imageData, curgray->imageData );
+  /*//cvNamedWindow("1", CV_WINDOW_AUTOSIZE);
+  //cvShowImage("1", frame);
+  //cvNamedWindow("2", CV_WINDOW_AUTOSIZE);
+  //cvShowImage("2", curgray);*/
+  cvSaveImage("1.jpg", frame, 0);
+  cvSaveImage("2.jpg", curgray, 0);
+  cvCvtColor(frame, curgray, CV_RGB2GRAY);//CV_BGR2GRAY);
+  printf ("after cvCvtColor\n");//
+  cvGoodFeaturesToTrack(pregray, eigimage, tmpimage, precorners, &cornerCount, 0.01, 10.0, 0, 3, 0, 0.04);
+  cvCalcOpticalFlowPyrLK(pregray, curgray, prepyr, curpyr, precorners, curcorners, cornerCount, cvSize(15,15), 5, featureFound, featureError, cvTermCriteria(CV_TERMCRIT_ITER|CV_TERMCRIT_EPS, 20, .3), 0);
+  int i;
+  for(i=0; i<cornerCount; i++)
+  {
+    if(featureFound[i]==0 || featureError[i]>550)
+      continue;
+    CvPoint p0 = cvPoint(cvRound(precorners[i].x), cvRound(precorners[i].y));
+    CvPoint p1 = cvPoint(cvRound(curcorners[i].x), cvRound(curcorners[i].y));
+    *dx += -curcorners[i].x + precorners[i].x;
+    *dy += -curcorners[i].y + precorners[i].y;
+
+    //cvCircle(frame, p0, 2, cvScalar(255,255,0,0), 3, 8, 0 );
+    cvCircle(frame, p1, 2, cvScalar(0,255,255,0), 3, 8, 0 );
+    cvLine(frame, p0, p1, cvScalar(255,0,0,0), 2, 8, 0);
+  }
+
+  if(cornerCount!=0)
+  {
+    *dx = *dx/cornerCount;
+    *dy = *dy/cornerCount;
+  }
+  else
+  {
+    *dx = 0;
+    *dy = 0;
+  }
+  //pregray = curgray;
+  memcpy(pregray->imageData, curgray->imageData, curgray->width*curgray->height);
 }
-
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //Transform into IplImage
 
 IplImage *ipl_image_from_data(uint8_t* data,int reduced_image,int w, int h)
 {
 	IplImage *curframe;
-	//IplImage *dst;
+	IplImage *dst;
 	
-	curframe = cvCreateImage(cvSize(w,h),IPL_DEPTH_8U,3);
-	//dst = cvCreateImage(cvSize(w,h),IPL_DEPTH_8U,3);
+	curframe = cvCreateImage(cvSize(w,h), IPL_DEPTH_8U, 3);
+	dst = cvCreateImage(cvSize(w,h), IPL_DEPTH_8U, 3);
 
-	curframe->imageData = data;
-	//cvCvtColor(curframe,dst,CV_BGR2RGB);
-	//cvReleaseImage(&curframe);
+	
+        curframe->imageData = data;
+        dst = cvCloneImage(curframe);
+	cvCvtColor(dst, dst, CV_BGR2RGB);
+	cvReleaseImage(&curframe);
 
-	//return dst;
-	return curframe;
+	return dst;
+	//return curframe;
 }
 
 C_RESULT output_gtk_stage_transform(vp_stages_gtk_config_t *cfg, vp_api_io_data_t *in, vp_api_io_data_t *out) {
@@ -326,17 +393,18 @@ C_RESULT output_gtk_stage_transform(vp_stages_gtk_config_t *cfg, vp_api_io_data_
     pixbuf_rowstride = dec_config->rowstride;
     pixbuf_data = (uint8_t*) in->buffers[in->indexBuffer];
     //change into Iplimage
-    IplImage *img = ipl_image_from_data(pixbuf_data,1,pixbuf_width,pixbuf_height);
+    IplImage *img =cvCloneImage( ipl_image_from_data(pixbuf_data,1,pixbuf_width,pixbuf_height) );
     //IplImage *img = ipl_image_from_data(pixbuf_data,1,STREAM_WIDTH,STREAM_HEIGHT);
     //pthread_mutex_lock(&mutex);
     //pthread_mutex_unlock(&mutex);
+    //cvSaveImage(img, "3.jpg", 0);
     if(img != NULL)
     {
           //cvCvtColor(img,img, CV_RGB2BGR);//make color seem strage///
    ////////////////////////////////////////////////////////////////////////////////////////////////
           float xoffset = 0.0;
           float yoffset = 0.0;
-
+        //cvSaveImage("tmp.jpg",img,0);
         opticalFlow(img, &xoffset, &yoffset);/////////////////////////////////////////////////
         double cursec1 = getsec2();///////////////////////////////////////////////////
         IMUdata1122.timeInv = cursec1 - inisec1;///////////////////////////////
@@ -351,7 +419,7 @@ C_RESULT output_gtk_stage_transform(vp_stages_gtk_config_t *cfg, vp_api_io_data_
         IMUdata1122.AccZ = NeedInfo_fromnavdata_1122.AccZ;//*/
         curaltitudedata = altitudedata_file;
         fprintf(record_file_11_22, 
-          "%lf  %f  %f  %lf  %lf  %lf  %lf  %lf  %lf %u\n",
+          "%lf %f %f %lf %lf %lf %lf %lf %lf %u\n",
           IMUdata1122.timeInv,
           IMUdata1122.delta_x,
           IMUdata1122.delta_y,
@@ -369,12 +437,14 @@ C_RESULT output_gtk_stage_transform(vp_stages_gtk_config_t *cfg, vp_api_io_data_
       if(frameNum % 25==0  && img != NULL)
       {
       //pthread_mutex_lock(&mutex);//mutex
-          char str[30];
-          sprintf(str,"image20160616/%d.jpg",frameNum);
-          //record Info
-          cvCvtColor(img,img, CV_RGB2BGR);//save in right color *store and display in different channel 
-          cvSaveImage(str,img,0);
 
+          char str[30];
+          sprintf(str,"image2017418/%d.jpg",frameNum);
+          //record Info
+          //printf ("img color change \n");//
+          //cvCvtColor(img, img, CV_RGB2BGR);//save in right color *store and display in different channel 
+          cvSaveImage(str,img,0);
+          printf("Save Imgs\n");
        /* fprintf(record_file_6_12,"%d : gyros.X: %d gyros.Y: %d gyros.Z: %d\n",
   frameNum,
   NeedInfo_6_12.raw_gyros_X2016,
@@ -384,8 +454,11 @@ C_RESULT output_gtk_stage_transform(vp_stages_gtk_config_t *cfg, vp_api_io_data_
       //pthread_mutex_unlock(&mutex);//mutex
        }    //*/
     }
-    
-    
+    else
+    {
+        printf("Img is NULL\n");
+    }
+    cvCvtColor(img, img, CV_RGB2BGR);
     pixbuf_data = (uint8_t*)img->imageData;
     
     //cvReleaseImage(&img);

@@ -1,0 +1,1211 @@
+
+TimeRecord: 20170315_101025_0
+raw_gyros[X]:0028;raw_gyros[Y]:0041;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.897961
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224169;[Y]:  0.391225;[Z]:  0.000000
+
+TimeRecord: 20170315_101025_0
+raw_gyros[X]:0031;raw_gyros[Y]:0042;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.898361
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224156;[Y]:  0.391234;[Z]:  0.000000
+
+TimeRecord: 20170315_101025_0
+raw_gyros[X]:0029;raw_gyros[Y]:0041;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.898777
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224142;[Y]:  0.391241;[Z]:  0.000000
+
+TimeRecord: 20170315_101025_0
+raw_gyros[X]:0031;raw_gyros[Y]:0043;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.898922
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224136;[Y]:  0.391248;[Z]:  0.000000
+
+TimeRecord: 20170315_101025_0
+raw_gyros[X]:0031;raw_gyros[Y]:0044;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.899151
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224155;[Y]:  0.391255;[Z]:  0.000000
+
+TimeRecord: 20170315_101025_0
+raw_gyros[X]:0030;raw_gyros[Y]:0043;raw_gyros[Z]:-029;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.899040
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224180;[Y]:  0.391263;[Z]:  0.000000
+
+TimeRecord: 20170315_101025_0
+raw_gyros[X]:0029;raw_gyros[Y]:0042;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.899082
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224215;[Y]:  0.391271;[Z]:  0.000000
+
+TimeRecord: 20170315_101025_0
+raw_gyros[X]:0029;raw_gyros[Y]:0043;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.899033
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224238;[Y]:  0.391278;[Z]:  0.000000
+
+TimeRecord: 20170315_101025_0
+raw_gyros[X]:0030;raw_gyros[Y]:0043;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.899078
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224256;[Y]:  0.391286;[Z]:  0.000000
+
+TimeRecord: 20170315_101025_0
+raw_gyros[X]:0029;raw_gyros[Y]:0042;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.899361
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224277;[Y]:  0.391293;[Z]:  0.000000
+
+TimeRecord: 20170315_101025_0
+raw_gyros[X]:0029;raw_gyros[Y]:0044;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.899887
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224324;[Y]:  0.391308;[Z]:  0.000000
+
+TimeRecord: 20170315_101025_0
+raw_gyros[X]:0030;raw_gyros[Y]:0043;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.900063
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224347;[Y]:  0.391315;[Z]:  0.000000
+
+TimeRecord: 20170315_101025_0
+raw_gyros[X]:0030;raw_gyros[Y]:0042;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.900360
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224370;[Y]:  0.391322;[Z]:  0.000000
+
+TimeRecord: 20170315_101025_0
+raw_gyros[X]:0031;raw_gyros[Y]:0044;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.904408
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224646;[Y]:  0.391304;[Z]:  0.000000
+
+TimeRecord: 20170315_101025_0
+raw_gyros[X]:0031;raw_gyros[Y]:0043;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.904755
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224650;[Y]:  0.391305;[Z]:  0.000000
+
+TimeRecord: 20170315_101025_0
+raw_gyros[X]:0029;raw_gyros[Y]:0042;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.904995
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224650;[Y]:  0.391317;[Z]:  0.000000
+
+TimeRecord: 20170315_101025_0
+raw_gyros[X]:0031;raw_gyros[Y]:0042;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.905472
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224637;[Y]:  0.391320;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0042;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.906345
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224526;[Y]:  0.391514;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0043;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.906414
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224509;[Y]:  0.391567;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0043;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.906567
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224485;[Y]:  0.391613;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0041;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.907875
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224410;[Y]:  0.391810;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0044;raw_gyros[Z]:-029;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.908142
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224407;[Y]:  0.391859;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0042;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.908436
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224425;[Y]:  0.391899;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0042;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.908394
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224451;[Y]:  0.391929;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0045;raw_gyros[Z]:-025;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.909054
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224508;[Y]:  0.391944;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0042;raw_gyros[Z]:-025;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.909824
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224527;[Y]:  0.391943;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0042;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.912277
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224620;[Y]:  0.391980;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0041;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.912537
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224643;[Y]:  0.392002;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0041;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.912537
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224643;[Y]:  0.392002;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0045;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.915077
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224777;[Y]:  0.392104;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0044;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.915268
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224762;[Y]:  0.392113;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0032;raw_gyros[Y]:0042;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.915363
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224738;[Y]:  0.392122;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0044;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.915688
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224711;[Y]:  0.392124;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0043;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.916328
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224680;[Y]:  0.392134;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0042;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.916664
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224698;[Y]:  0.392146;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0044;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.918251
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224791;[Y]:  0.392176;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0032;raw_gyros[Y]:0044;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.918571
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224772;[Y]:  0.392181;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0042;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.919418
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224701;[Y]:  0.392199;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0042;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.919579
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224686;[Y]:  0.392205;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0044;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.919781
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224667;[Y]:  0.392211;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0028;raw_gyros[Y]:0042;raw_gyros[Z]:-025;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.920124
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224650;[Y]:  0.392217;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0042;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.920597
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224628;[Y]:  0.392222;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0042;raw_gyros[Z]:-025;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.921406
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224607;[Y]:  0.392228;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0043;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.922009
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224588;[Y]:  0.392234;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0027;raw_gyros[Y]:0043;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.922771
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224567;[Y]:  0.392240;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0042;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.923203
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224547;[Y]:  0.392246;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0044;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.923889
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224524;[Y]:  0.392258;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0044;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.924038
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224523;[Y]:  0.392264;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0042;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.924435
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224512;[Y]:  0.392270;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0044;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.924694
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224494;[Y]:  0.392276;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0042;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.925636
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224427;[Y]:  0.392293;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0042;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.925976
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224407;[Y]:  0.392298;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0042;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.926331
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224392;[Y]:  0.392304;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0028;raw_gyros[Y]:0044;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.927238
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224330;[Y]:  0.392322;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0041;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.927391
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224309;[Y]:  0.392328;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0042;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.927528
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224289;[Y]:  0.392350;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0043;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.927711
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224287;[Y]:  0.392375;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0043;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.927902
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224276;[Y]:  0.392418;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0032;raw_gyros[Y]:0043;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.928082
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224259;[Y]:  0.392470;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0028;raw_gyros[Y]:0045;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.928299
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224245;[Y]:  0.392525;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0044;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.928417
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224229;[Y]:  0.392576;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0042;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.928707
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224234;[Y]:  0.392611;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0042;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.928982
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224224;[Y]:  0.392647;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0042;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.929333
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224214;[Y]:  0.392665;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0028;raw_gyros[Y]:0043;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.929710
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224190;[Y]:  0.392687;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0041;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.929913
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224163;[Y]:  0.392694;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0042;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.930599
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224113;[Y]:  0.392703;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0042;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.930908
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224091;[Y]:  0.392714;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0028;raw_gyros[Y]:0042;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.931889
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223997;[Y]:  0.392743;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0044;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.932072
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223979;[Y]:  0.392747;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0043;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.932350
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223961;[Y]:  0.392753;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0044;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.932781
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223942;[Y]:  0.392757;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0042;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.933735
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223888;[Y]:  0.392770;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0041;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.933990
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223871;[Y]:  0.392776;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0041;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.934292
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223854;[Y]:  0.392780;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0044;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.936306
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223753;[Y]:  0.392814;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0044;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.936584
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223735;[Y]:  0.392820;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0042;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.936760
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223718;[Y]:  0.392826;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0028;raw_gyros[Y]:0042;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.937233
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223701;[Y]:  0.392832;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0032;raw_gyros[Y]:0044;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.937664
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223683;[Y]:  0.392837;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0043;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.938095
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223666;[Y]:  0.392842;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0044;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.938484
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223657;[Y]:  0.392847;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0042;raw_gyros[Z]:-029;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.938995
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223678;[Y]:  0.392857;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0044;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.939953
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223665;[Y]:  0.392884;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0042;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.940281
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223658;[Y]:  0.392900;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0043;raw_gyros[Z]:-025;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.941895
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223762;[Y]:  0.392939;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0041;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.943233
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223716;[Y]:  0.392954;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0028;raw_gyros[Y]:0048;raw_gyros[Z]:-025;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.945080
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223762;[Y]:  0.392988;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0028;raw_gyros[Y]:0048;raw_gyros[Z]:-025;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.945080
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223762;[Y]:  0.392988;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0044;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.945393
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223800;[Y]:  0.392994;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0043;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.946529
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223880;[Y]:  0.393012;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0042;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.946960
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223904;[Y]:  0.393017;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0042;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.947159
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223934;[Y]:  0.393021;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0028;raw_gyros[Y]:0043;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.947659
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223960;[Y]:  0.393026;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0041;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.948025
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223988;[Y]:  0.393031;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0044;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.948402
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224014;[Y]:  0.393037;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0044;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.948734
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224039;[Y]:  0.393051;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0045;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.948856
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224066;[Y]:  0.393076;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0043;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.949070
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224083;[Y]:  0.393111;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0043;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.949139
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224089;[Y]:  0.393145;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0042;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.949352
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224076;[Y]:  0.393162;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0044;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.949596
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224054;[Y]:  0.393167;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0043;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.949875
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224030;[Y]:  0.393161;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0032;raw_gyros[Y]:0044;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.950203
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224009;[Y]:  0.393161;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0032;raw_gyros[Y]:0041;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.950420
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223996;[Y]:  0.393168;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0041;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.950691
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223979;[Y]:  0.393175;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0042;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.950932
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223972;[Y]:  0.393183;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0041;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.951271
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223963;[Y]:  0.393184;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0041;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.951633
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223973;[Y]:  0.393189;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0043;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.951855
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223985;[Y]:  0.393195;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0042;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.952023
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224010;[Y]:  0.393202;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0042;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.952087
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224037;[Y]:  0.393209;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0042;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.952309
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224061;[Y]:  0.393215;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0044;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.952579
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224092;[Y]:  0.393222;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0028;raw_gyros[Y]:0043;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.952866
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224111;[Y]:  0.393228;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0042;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.953182
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224140;[Y]:  0.393234;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0028;raw_gyros[Y]:0042;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.953510
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224153;[Y]:  0.393240;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0027;raw_gyros[Y]:0042;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.953880
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224160;[Y]:  0.393245;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0044;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.954315
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224148;[Y]:  0.393250;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0042;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.954521
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224125;[Y]:  0.393254;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0041;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.954758
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224102;[Y]:  0.393259;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0043;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.954823
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224079;[Y]:  0.393264;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0043;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.955074
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224066;[Y]:  0.393269;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0041;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.955345
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224050;[Y]:  0.393274;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0042;raw_gyros[Z]:-029;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.955566
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224034;[Y]:  0.393279;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0032;raw_gyros[Y]:0043;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.955830
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224016;[Y]:  0.393284;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0042;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.955875
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224000;[Y]:  0.393290;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0042;raw_gyros[Z]:-029;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.956062
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223985;[Y]:  0.393295;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0044;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.956192
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223978;[Y]:  0.393301;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0043;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.956364
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223982;[Y]:  0.393307;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0042;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.956680
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224003;[Y]:  0.393313;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0042;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.956940
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224034;[Y]:  0.393319;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0043;raw_gyros[Z]:-025;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.957520
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224060;[Y]:  0.393324;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0041;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.958115
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224070;[Y]:  0.393330;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0044;raw_gyros[Z]:-029;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.958633
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224055;[Y]:  0.393335;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0043;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.959015
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224034;[Y]:  0.393340;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0042;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.958988
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224009;[Y]:  0.393353;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0044;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.962868
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224059;[Y]:  0.393529;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0042;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.963070
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224047;[Y]:  0.393536;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0044;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.963387
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224032;[Y]:  0.393540;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0043;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.963593
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224017;[Y]:  0.393546;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0043;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.963593
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224017;[Y]:  0.393546;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0043;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.963974
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223999;[Y]:  0.393551;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0029;raw_gyros[Y]:0039;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.964275
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223982;[Y]:  0.393556;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0042;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.964714
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223968;[Y]:  0.393561;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0042;raw_gyros[Z]:-029;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.965172
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223952;[Y]:  0.393566;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0043;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.965446
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223937;[Y]:  0.393572;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0043;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.965446
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223937;[Y]:  0.393572;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0042;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.965569
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223921;[Y]:  0.393578;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0028;raw_gyros[Y]:0042;raw_gyros[Z]:-029;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.965382
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223905;[Y]:  0.393584;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0043;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.965294
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223898;[Y]:  0.393590;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0044;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.965157
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223902;[Y]:  0.393596;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0030;raw_gyros[Y]:0043;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.965206
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223925;[Y]:  0.393602;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0028;raw_gyros[Y]:0044;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.965214
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223957;[Y]:  0.393609;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0042;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.965321
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.223992;[Y]:  0.393615;[Z]:  0.000000
+
+TimeRecord: 20170315_101026_0
+raw_gyros[X]:0031;raw_gyros[Y]:0042;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.965572
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224023;[Y]:  0.393621;[Z]:  0.000000
+
+TimeRecord: 20170315_101027_0
+raw_gyros[X]:0030;raw_gyros[Y]:0045;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.965908
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224047;[Y]:  0.393626;[Z]:  0.000000
+
+TimeRecord: 20170315_101027_0
+raw_gyros[X]:0029;raw_gyros[Y]:0044;raw_gyros[Z]:-025;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.966492
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224074;[Y]:  0.393631;[Z]:  0.000000
+
+TimeRecord: 20170315_101027_0
+raw_gyros[X]:0032;raw_gyros[Y]:0043;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.966969
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224100;[Y]:  0.393637;[Z]:  0.000000
+
+TimeRecord: 20170315_101027_0
+raw_gyros[X]:0028;raw_gyros[Y]:0043;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.967442
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224130;[Y]:  0.393642;[Z]:  0.000000
+
+TimeRecord: 20170315_101027_0
+raw_gyros[X]:0030;raw_gyros[Y]:0043;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.967655
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224158;[Y]:  0.393648;[Z]:  0.000000
+
+TimeRecord: 20170315_101027_0
+raw_gyros[X]:0030;raw_gyros[Y]:0043;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.967731
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224185;[Y]:  0.393653;[Z]:  0.000000
+
+TimeRecord: 20170315_101027_0
+raw_gyros[X]:0030;raw_gyros[Y]:0043;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.967731
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224185;[Y]:  0.393653;[Z]:  0.000000
+
+TimeRecord: 20170315_101027_0
+raw_gyros[X]:0029;raw_gyros[Y]:0044;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.967865
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224213;[Y]:  0.393659;[Z]:  0.000000
+
+TimeRecord: 20170315_101027_0
+raw_gyros[X]:0030;raw_gyros[Y]:0043;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.968067
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224231;[Y]:  0.393664;[Z]:  0.000000
+
+TimeRecord: 20170315_101027_0
+raw_gyros[X]:0030;raw_gyros[Y]:0043;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.968067
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224231;[Y]:  0.393664;[Z]:  0.000000
+
+TimeRecord: 20170315_101027_0
+raw_gyros[X]:0030;raw_gyros[Y]:0040;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.968536
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224241;[Y]:  0.393670;[Z]:  0.000000
+
+TimeRecord: 20170315_101027_0
+raw_gyros[X]:0031;raw_gyros[Y]:0043;raw_gyros[Z]:-026;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.968998
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224230;[Y]:  0.393675;[Z]:  0.000000
+
+TimeRecord: 20170315_101027_0
+raw_gyros[X]:0031;raw_gyros[Y]:0043;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.969463
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224210;[Y]:  0.393689;[Z]:  0.000000
+
+TimeRecord: 20170315_101027_0
+raw_gyros[X]:0030;raw_gyros[Y]:0043;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.969772
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224188;[Y]:  0.393713;[Z]:  0.000000
+
+TimeRecord: 20170315_101027_0
+raw_gyros[X]:0029;raw_gyros[Y]:0042;raw_gyros[Z]:-028;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.969841
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224168;[Y]:  0.393756;[Z]:  0.000000
+
+TimeRecord: 20170315_101027_0
+raw_gyros[X]:0032;raw_gyros[Y]:0042;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.969875
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224157;[Y]:  0.393807;[Z]:  0.000000
+
+TimeRecord: 20170315_101027_0
+raw_gyros[X]:0030;raw_gyros[Y]:0040;raw_gyros[Z]:-027;raw_gyros_110[0]:0000;raw_gyros_110[1]:0000;
+magneto.mx:   -51;magneto.my:   -13;magneto.mz:  -105;magneto_raw.x: 44.941406;magneto_raw.y: 176.308594;magneto_raw.z: 376.523438;magneto_rectified.x: 161.931000;magneto_rectified.y: 175.465820;magneto_rectified.z: 376.523438
+magneto_offset.x: -116.989594;magneto_offset.y: 0.842773;magneto_offset.z: 0.000000;heading_unwrapped: -51.822086;heading_gyro_unwrapped: 0.000000;heading_fusion_unwrapped: -32.969868
+magneto_calibration_ok: 1;magneto_state: 2;magneto_radius:  145.212280;magneto.error_mean: 93.555183;magneto.error_var: -0.002930;wind_speed.magneto_debug1: 0.000000;wind_speed.magneto_debug2: 0.000000;wind_speed.magneto_debug3 0.000000
+gyros_offsets.offset_g[GYRO_X]:  0.224142;[Y]:  0.393862;[Z]:  0.000000

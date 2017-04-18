@@ -76,25 +76,32 @@ video_stage_encoded_recorder.o ../../Soft/Build/targets_versions/ardrone_lib_PRO
  ../../FFMPEG/Includes/libavutil/intfloat_readwrite.h \
  ../../FFMPEG/Includes/libavutil/log.h \
  ../../FFMPEG/Includes/libavutil/pixfmt.h \
- ../..//Soft/Lib/ardrone_tool/Academy/academy.h \
- ../..//Soft/Common/ardrone_api.h \
- ../..//Soft/Common/ardrone_common_config.h ../ATcodec/ATcodec_api.h \
- ../VP_Os/vp_os_thread.h ..//VP_Os/linux/vp_os_thread_dep.h \
- ../ATcodec/ATcodec.h ../ATcodec/ATcodec_Memory.h \
- ../ATcodec/ATcodec_Error.h ../ATcodec/ATcodec_Tree.h \
- ../ATcodec/ATcodec_Buffer.h ../..//Soft/Common/navdata_common.h \
- ../..//Soft/Common/config.h ../..//Soft/Common/generated_custom.h \
- ../..//Soft/Common/vision_common.h ../..//Soft/Lib/Maths/maths.h \
+ /home/ml/Software/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Build/../../../../ARDroneLib/Soft/Lib/ardrone_tool/Academy/academy.h \
+ /home/ml/Software/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Build/../../../../ARDroneLib/Soft/Common/ardrone_api.h \
+ /home/ml/Software/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Build/../../../../ARDroneLib/Soft/Common/ardrone_common_config.h \
+ ../ATcodec/ATcodec_api.h ../VP_Os/vp_os_thread.h \
+ ..//VP_Os/linux/vp_os_thread_dep.h ../ATcodec/ATcodec.h \
+ ../ATcodec/ATcodec_Memory.h ../ATcodec/ATcodec_Error.h \
+ ../ATcodec/ATcodec_Tree.h ../ATcodec/ATcodec_Buffer.h \
+ /home/ml/Software/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Build/../../../../ARDroneLib/Soft/Common/navdata_common.h \
+ /home/ml/Software/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Build/../../../../ARDroneLib/Soft/Common/config.h \
+ /home/ml/Software/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Build/../../../../ARDroneLib/Soft/Common/generated_custom.h \
+ /home/ml/Software/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Build/../../../../ARDroneLib/Soft/Common/vision_common.h \
+ /home/ml/Software/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Build/../../../../ARDroneLib/Soft/Lib/Maths/maths.h \
  /usr/lib/gcc/x86_64-linux-gnu/4.8/include/float.h \
- ../..//Soft/Lib/Maths/matrices.h ../..//Soft/Common/navdata_keys.h \
- ../..//Soft/Lib/Maths/quaternions.h ../..//Soft/Common/led_animation.h \
- ../..//Soft/Common/config_keys.h ../../VLIB/video_codec.h \
- ../../VLIB/video_controller.h ../../VLIB/video_picture.h \
- ../../VLIB/video_picture_defines.h ../../VLIB/video_gob.h \
- ../../VLIB/video_macroblock.h ../../VLIB/P264/p264_common.h \
- ../..//Soft/Common/academy_common.h \
- ../..//Soft/Lib/ardrone_tool/ardrone_tool.h \
- ../VP_Api/vp_api_thread_helper.h ../..//Soft/Lib/utils/ardrone_ftp.h \
+ /home/ml/Software/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Build/../../../../ARDroneLib/Soft/Lib/Maths/matrices.h \
+ /home/ml/Software/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Build/../../../../ARDroneLib/Soft/Common/navdata_keys.h \
+ /home/ml/Software/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Build/../../../../ARDroneLib/Soft/Lib/Maths/quaternions.h \
+ /home/ml/Software/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Build/../../../../ARDroneLib/Soft/Common/led_animation.h \
+ /home/ml/Software/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Build/../../../../ARDroneLib/Soft/Common/config_keys.h \
+ ../../VLIB/video_codec.h ../../VLIB/video_controller.h \
+ ../../VLIB/video_picture.h ../../VLIB/video_picture_defines.h \
+ ../../VLIB/video_gob.h ../../VLIB/video_macroblock.h \
+ ../../VLIB/P264/p264_common.h \
+ /home/ml/Software/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Build/../../../../ARDroneLib/Soft/Common/academy_common.h \
+ /home/ml/Software/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Build/../../../../ARDroneLib/Soft/Lib/ardrone_tool/ardrone_tool.h \
+ ../VP_Api/vp_api_thread_helper.h \
+ /home/ml/Software/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Build/../../../../ARDroneLib/Soft/Lib/utils/ardrone_ftp.h \
  ../VP_Com/vp_com_socket.h ../VP_Com/vp_com.h ../VP_Os/vp_os_delay.h \
  ../VP_Os/vp_os_print.h /usr/include/dirent.h \
  /usr/include/x86_64-linux-gnu/bits/dirent.h /usr/include/ftw.h \
@@ -104,13 +111,13 @@ video_stage_encoded_recorder.o ../../Soft/Build/targets_versions/ardrone_lib_PRO
  /usr/include/x86_64-linux-gnu/bits/environments.h \
  /usr/include/x86_64-linux-gnu/bits/confname.h /usr/include/getopt.h \
  /usr/include/x86_64-linux-gnu/bits/unistd.h \
- ../..//Soft/Lib/ardrone_tool/Video/video_stage_encoded_recorder.h \
- ../..//Soft/Lib/utils/ardrone_video_encapsuler.h \
- ../..//Soft/Common/video_encapsulation.h \
- ../..//Soft/Lib/utils/ardrone_date.h \
- ../..//Soft/Lib/ardrone_tool/Video/video_navdata_handler.h \
- ../..//Soft/Lib/ardrone_tool/Navdata/ardrone_navdata_client.h \
- ../..//Soft/Lib/ardrone_tool/Control/ardrone_navdata_control.h \
- ../..//Soft/Lib/ardrone_tool/Navdata/ardrone_navdata_file.h \
- ../..//Soft/Lib/ardrone_tool/Navdata/ardrone_general_navdata.h \
- ../..//Soft/Lib/ardrone_tool/Navdata/ardrone_academy_navdata.h
+ /home/ml/Software/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Build/../../../../ARDroneLib/Soft/Lib/ardrone_tool/Video/video_stage_encoded_recorder.h \
+ /home/ml/Software/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Build/../../../../ARDroneLib/Soft/Lib/utils/ardrone_video_encapsuler.h \
+ /home/ml/Software/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Build/../../../../ARDroneLib/Soft/Common/video_encapsulation.h \
+ /home/ml/Software/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Build/../../../../ARDroneLib/Soft/Lib/utils/ardrone_date.h \
+ /home/ml/Software/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Build/../../../../ARDroneLib/Soft/Lib/ardrone_tool/Video/video_navdata_handler.h \
+ /home/ml/Software/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Build/../../../../ARDroneLib/Soft/Lib/ardrone_tool/Navdata/ardrone_navdata_client.h \
+ /home/ml/Software/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Build/../../../../ARDroneLib/Soft/Lib/ardrone_tool/Control/ardrone_navdata_control.h \
+ /home/ml/Software/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Build/../../../../ARDroneLib/Soft/Lib/ardrone_tool/Navdata/ardrone_navdata_file.h \
+ /home/ml/Software/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Build/../../../../ARDroneLib/Soft/Lib/ardrone_tool/Navdata/ardrone_general_navdata.h \
+ /home/ml/Software/ARDrone_SDK_2_0_1/Examples/Linux/Navigation/Build/../../../../ARDroneLib/Soft/Lib/ardrone_tool/Navdata/ardrone_academy_navdata.h
