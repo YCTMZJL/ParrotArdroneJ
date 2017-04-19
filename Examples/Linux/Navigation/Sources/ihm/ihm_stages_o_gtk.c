@@ -291,7 +291,7 @@ int video_information_buffer_index = 0;
        }
 }*/
 //////////////////////////////////////////////////////
-void opticalFlow(IplImage* frame, int* dx, int *dy)
+void opticalFlow(IplImage* frame, float *dx,  float *dy)
 {
    if(frame == NULL ) 
   {
@@ -308,8 +308,8 @@ void opticalFlow(IplImage* frame, int* dx, int *dy)
   //cvShowImage("1", frame);
   //cvNamedWindow("2", CV_WINDOW_AUTOSIZE);
   //cvShowImage("2", curgray);*/
-  cvSaveImage("1.jpg", frame, 0);
-  cvSaveImage("2.jpg", curgray, 0);
+  //cvSaveImage("1.jpg", frame, 0);
+  //cvSaveImage("2.jpg", curgray, 0);
   printf("width frame = %d  curgray = %d\n", frame->width, curgray -> width);
   printf("height frame = %d  curgray = %d\n", frame->height, curgray -> height);
   printf("channel frame = %d  curgray = %d\n", frame -> nChannels, curgray -> nChannels);
@@ -319,6 +319,8 @@ void opticalFlow(IplImage* frame, int* dx, int *dy)
   cvGoodFeaturesToTrack(pregray, eigimage, tmpimage, precorners, &cornerCount, 0.01, 10.0, 0, 3, 0, 0.04);
   cvCalcOpticalFlowPyrLK(pregray, curgray, prepyr, curpyr, precorners, curcorners, cornerCount, cvSize(15,15), 5, featureFound, featureError, cvTermCriteria(CV_TERMCRIT_ITER|CV_TERMCRIT_EPS, 20, .3), 0);
   int i;
+  *dx = 0.0;
+  *dy = 0.0;
   for(i=0; i<cornerCount; i++)
   {
     if(featureFound[i]==0 || featureError[i]>550)
@@ -333,15 +335,15 @@ void opticalFlow(IplImage* frame, int* dx, int *dy)
     cvLine(frame, p0, p1, cvScalar(255,0,0,0), 2, 8, 0);
   }
 
-  if(cornerCount!=0)
+  if(cornerCount != 0)
   {
-    *dx = *dx/cornerCount;
-    *dy = *dy/cornerCount;
+    *dx = (*dx*1.0)/cornerCount;
+    *dy = (*dy*1.0)/cornerCount;
   }
   else
   {
-    *dx = 0;
-    *dy = 0;
+    *dx = 0.0;
+    *dy = 0.0;
   }
   //pregray = curgray;
   memcpy(pregray->imageData, curgray->imageData, curgray->width*curgray->height);
@@ -399,7 +401,7 @@ C_RESULT output_gtk_stage_transform(vp_stages_gtk_config_t *cfg, vp_api_io_data_
     pixbuf_rowstride = dec_config->rowstride;
     pixbuf_data = (uint8_t*) in->buffers[in->indexBuffer];
     //change into Iplimage
-    IplImage *img =cvCloneImage( ipl_image_from_data(pixbuf_data,1,pixbuf_width,pixbuf_height) );
+    IplImage *img = cvCloneImage( ipl_image_from_data(pixbuf_data,1,pixbuf_width,pixbuf_height) );
     //IplImage *img = ipl_image_from_data(pixbuf_data,1,STREAM_WIDTH,STREAM_HEIGHT);
     //pthread_mutex_lock(&mutex);
     //pthread_mutex_unlock(&mutex);
