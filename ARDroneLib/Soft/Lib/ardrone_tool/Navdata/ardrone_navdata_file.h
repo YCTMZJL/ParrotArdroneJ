@@ -33,6 +33,15 @@ typedef struct NeedInfo_2016_innavadata
   //
 }NeedInfo_2016;
 
+typedef struct AttitudeData
+{//get magne gyro alttitude
+  double Pitch;
+  double Roll;
+  double Yaw;
+ FILE* AttitudeDataSave; 
+ double pretime;
+}AttitudeData2017;
+
 unsigned int altitudedata_file;
 // For this handler, data is the path where the file will be created
 // If data is NULL then the file is created in current directory

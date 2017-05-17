@@ -72,8 +72,7 @@ double inisec = 0.0;
 NeedInfo_2016 NeedInfo_6_12;
 NeedInfo_2016 NeedInfo_fromnavdata_1122;
 //////////////////////////////
-AttitudeData2017  AttitudeData2017_file;
-////////////////////////////////
+
 // Public declaration of navdata_file allowing other handlers to write into
 FILE* navdata_file = NULL;
 
@@ -189,7 +188,7 @@ static void ardrone_navdata_file_print_version( void )
 
 struct tm *navdata_atm = NULL;
 
-C_RESULT ardrone_navdata_file_init( void* data ) //init
+C_RESULT ardrone_navdata_file_init( void* data )
 {
   char filename[1024];
   struct timeval tv;
@@ -226,25 +225,6 @@ C_RESULT ardrone_navdata_file_init( void* data ) //init
  	navdata_atm->tm_year+1900, navdata_atm->tm_mon+1, navdata_atm->tm_mday,
         navdata_atm->tm_hour, navdata_atm->tm_min, navdata_atm->tm_sec);
   record_file_2016 = fopen(myfilename,"wb");
-  /////////////////////////////////////////////////////
-  //AttitudeData2017  AttitudeData2017_file;
-
-char filenameA[1024];
-  strcpy(filenameA, root_dir);
-  strcat(filenameA, "/");
-
-  sprintf(filenameA, "%s/attitude_ihm_record_%04d%02d%02d_%02d%02d%02d.txt",
-  	filenameA,
-  	navdata_atm->tm_year + 1900, navdata_atm->tm_mon+1, navdata_atm->tm_mday,
-  	navdata_atm->tm_hour, navdata_atm->tm_min, navdata_atm->tm_sec
-  	);
-//init AttitudeData2017
-  AttitudeData2017_file .Pitch =0.0;
-  AttitudeData2017_file .Roll =0.0;
-  AttitudeData2017_file .Yaw =0.0;
-  AttitudeData2017_file .pretime =0.0;
-  AttitudeData2017_file .AttitudeDataSave  = fopen(filenameA, "wb");
-//////////////////////////////////////////////////////////////////////////////////////
   return navdata_file_private != NULL ? C_OK : C_FAIL;
 }
 

@@ -28,4 +28,6 @@ void set_calibration_state( int32_t state);
 
 gboolean update_display(gpointer pData);
 
+void saveInf();
+
 #endif  //  VIEW_DRONE_ATTITUDE_H 

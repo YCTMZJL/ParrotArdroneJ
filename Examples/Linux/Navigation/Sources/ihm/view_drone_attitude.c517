@@ -61,27 +61,7 @@ extern int detectionHistory[NB_DETECTION_SAMPLES];   // stores the number of det
 static int nb_tags_detection_samples_received = 0;   // counts the number of detection results diplayed
 #endif
 
-extern NeedInfo_2016  NeedInfo_fromnavdata_1122;
-extern AttitudeData2017  AttitudeData2017_file;
-extern unsigned int altitudedata_file;/////altitude data in navdata
-FILE* record_attitude_2017 = NULL;
-//double inisec;
-double presec = 0.0;
-double cursec = 0.0;
-//////////////////////////////////////////////////////////////////////////
-
 static int32_t mykonos_control_state = -1;
-////////////////////////////////////////////////////////////////////////////
-double getsec3()
-{
-	struct timeval tv;
-	gettimeofday(&tv, NULL);
-	double timeus = tv.tv_usec*0.000001;
-	double times = tv.tv_sec;
-	return times + timeus;
-}
-
-////////////////////////////////////////////////////////////////////////////
 void set_control_state(int32_t control_state)
 {
   if( mykonos_control_state == -1 )
@@ -101,27 +81,6 @@ void set_control_state(int32_t control_state)
   }
 
   mykonos_control_state = control_state;
-
-  /*//can I ? initial files  here
-  char filename[1024];
-  strcpy(filename, root_dir);
-  strcat(filename, "/");
-
-  struct timeval tv;
-  time_t temptime;
-
-  gettimeofday( &tv, NULL );
-  temptime = (time_t) tv.tv_sec;
-  struct tm *navdata_atm = localtime(&temptime);
-
-  sprintf(filename, "%s/attitude_ihm_record_%04d%02d%02d_%02d%02d%02d.txt",
-  	filename,
-  	navdata_atm->tm_year + 1900, navdata_atm->tm_mon+1, navdata_atm->tm_mday,
-  	navdata_atm->tm_hour, navdata_atm->tm_min, navdata_atm->tm_sec
-  	);
-
-  record_attitude_2017 = fopen(filename, "wb");
-  //initial?*/
 }
 
 #ifdef USE_ARDRONE_VICON
@@ -711,7 +670,7 @@ void display_heading_calibration_state(void)
                 360*64 );
 }
 
-gboolean update_display(gpointer pData) //get data
+gboolean update_display(gpointer pData)
 {
 
   int k;
@@ -739,9 +698,7 @@ gboolean update_display(gpointer pData) //get data
   tangle[2] = ihm_CA[KIHM_CURVE_THETA].tval[2][ihm_val_idx];
   tangle[3] = ihm_CA[KIHM_CURVE_THETA].tval[3][ihm_val_idx];
   draw_angle(ihm_DA_att[KIHM_DA_ATT_PITCH], ihm_PL_DAtheta, tangle,  1, "Theta (Pitch)");
-  
-  //printf("pitch  = %lf\n", tangle[0]);//*3.14159/180.0 );
-  AttitudeData2017_file .Pitch = tangle[0];
+
   // phi display
   tangle[0] = ihm_CA[KIHM_CURVE_PHI].tval[0][ihm_val_idx];
   tangle[1] = ihm_CA[KIHM_CURVE_PHI].tval[1][ihm_val_idx];
@@ -749,15 +706,10 @@ gboolean update_display(gpointer pData) //get data
   tangle[3] = ihm_CA[KIHM_CURVE_PHI].tval[3][ihm_val_idx];
   draw_angle(ihm_DA_att[KIHM_DA_ATT_ROLL ], ihm_PL_DAphi  , tangle, -1, "Phi (Roll)");
 
-  //printf("roll  = %lf\n", tangle[0]);
-  AttitudeData2017_file .Roll = tangle[0];
- 
+
   // psi display
   draw_psi();
 
-  //printf("yaw  = %lf\n", ihm_psi);
-  AttitudeData2017_file .Yaw = ihm_psi;
-  saveInf();///////////////////////////////////////////////////////////
   // heading display
   draw_heading();
 
@@ -847,30 +799,6 @@ gboolean update_display(gpointer pData) //get data
  // vp_os_mutex_unlock(&ihm_lock);
 
   gdk_threads_leave(); //http://blogs.operationaldynamics.com/andrew/software/gnome-desktop/gtk-thread-awareness.html
-//--------------------------------------------------------------------------
+
 	return TRUE;
-}
-void saveInf()
-{
-    double TimeInv = 0.0;
-    cursec = getsec3();
-    TimeInv = cursec - presec;
-    presec = cursec;
-  //AttitudeData2017_file .Pitch = tangle[0];
-    //Time AccX AccY AccZ GyrosX GyrosY GyrosZ Pitch Roll Yaw Altitude
-    fprintf(AttitudeData2017_file.AttitudeDataSave, 
-                "%lf %lf %lf %lf %lf %lf  %lf %lf %lf %lf %u\n",
-                TimeInv,
-                NeedInfo_fromnavdata_1122.AccX,
-                NeedInfo_fromnavdata_1122.AccY,
-                NeedInfo_fromnavdata_1122.AccZ,
-                NeedInfo_fromnavdata_1122.GyrosX,
-                NeedInfo_fromnavdata_1122.GyrosY,
-                NeedInfo_fromnavdata_1122.GyrosZ,
-                AttitudeData2017_file.Pitch,
-                AttitudeData2017_file.Roll,
-                AttitudeData2017_file.Yaw,
-                altitudedata_file
-                //extern unsigned int altitudedata_file;/////altitude data in navdata
-     );
 }
