@@ -859,7 +859,7 @@ void saveInf()
   //AttitudeData2017_file .Pitch = tangle[0];
     //Time AccX AccY AccZ GyrosX GyrosY GyrosZ Pitch Roll Yaw Altitude
     fprintf(AttitudeData2017_file.AttitudeDataSave, 
-                "%lf %lf %lf %lf %lf %lf  %lf %lf %lf %lf %u\n",
+                "%lf %lf %lf %lf %lf %lf %lf %lf %lf %lf %u\n",
                 TimeInv,
                 NeedInfo_fromnavdata_1122.AccX,
                 NeedInfo_fromnavdata_1122.AccY,
