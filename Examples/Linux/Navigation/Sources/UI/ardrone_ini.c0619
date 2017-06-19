@@ -179,8 +179,8 @@ else
       if(startcount > STARTPOINT && startcount < STARTPOINT + Takofftimes) { ardrone_academy_navdata_takeoff(); }
       int Stage1time = STARTPOINT + 300 ;//xuanting 
       int Stage2time = Stage1time + 100 ;//move
-      int Stage3time = Stage2time + 300;//xuanting
-      int Stage4time = Stage3time + 100 ;//move
+      int Stage3time = Stage2time + 600;//xuanting
+      int Stage4time = Stage3time + 80 ;//move
       int Stage5time = Stage4time + 40 ;//for shoudong
 
  /*	int i;
@@ -204,17 +204,13 @@ else
       }
       else if(startcount > Stage3time  && startcount <= Stage4time ) { //wending
       	//stick2UD = center_y2 + 32767*0.6 ;//hou mian you fu hao//left right
-          //stick1UD =  center_y1 + 7500;
-          //stick2UD =  center_y2 - 7500;
-      	stick1LR = center_x1 - 7500 ;  // left
+          stick1UD = center_y1 + 7500;
       }
      else if(startcount >  Stage4time && startcount <= Stage5time )
       {   
        	//ardrone_academy_navdata_emergency();
        	 //autoflyflag  =  0;
-      	 //stick2UD = center_y2 ;
                stick1UD = center_y1; 
-               stick1LR = center_x1 ; 
       }
       else if( startcount > Stage5time )
       {
