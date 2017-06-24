@@ -6,11 +6,12 @@
 #include <ardrone_tool/Navdata/ardrone_academy_navdata.h>
 
 #include <ardrone_tool/ardrone_tool_configuration.h>
+#include <ardrone_tool/UI/ardrone_input.h>
 #include <pthread.h>
 
 #define JOYSTICK_DEAD_ZONE_PERCENT (20) // Must be in range [0;100]
 
-#define STARTPOINT 200
+#define STARTPOINT 600
 #define Takofftimes 2
 //#define Staytime 500
 //#define Movetime 1000
@@ -19,7 +20,7 @@ Controller_info *control;
 Controller_info *default_control;
 GList *devices;
 
-static int autoflyflag =  0; //zidong=1 shoudong  =0 
+static int autoflyflag =  1; //zidong=1 shoudong  =0 ###############################
 
 static int startcount = 0;
 
@@ -174,26 +175,62 @@ else
     stick1UD = center_y1;
     stick2LR = center_x2;
     stick2UD = center_y2;
+    //printf("startcount = %d \n", startcount);
       if(startcount > STARTPOINT && startcount < STARTPOINT + Takofftimes) { ardrone_academy_navdata_takeoff(); }
-      int Stage1time = STARTPOINT + 300 ;
-      int Stage2time = Stage1time + 80 ;
-      int Stage3time = Stage2time +60 ;//weiding
-      int Stage4time = Stage3time +35 ;//xiajiang?
+      int Stage1time = STARTPOINT + 300 ;//xuanting 
+      int Stage2time = Stage1time + 100 ;//move
+      int Stage3time = Stage2time + 300;//xuanting
+      int Stage4time = Stage3time + 100 ;//move
+      int Stage5time = Stage4time + 300 ;//xuanting
+      int Stage6time = Stage5time + 100 ;//move
+      int Stage7time = Stage6time + 40;//shoudong
 
-      if(startcount > Stage1time && startcount  <= Stage2time ) { //qianjin
-      	stick1UD = center_y1 - 8000;
+ /*	int i;
+	if(startcount == 1000)
+	{
+		for(i=0; i<5; i++)
+		{
+		  ardrone_at_set_progressive_cmd_with_magneto(1, 0.0, 0.6, 0.0, 0.0, 0.0, 0.0);//?had some question
+		}
+	}
+	//zhi jie chuan zhi ling ; 80 chabuduo shi liangmiao
+//*/
+
+      if(startcount  > Stage1time && startcount  <= Stage2time ) { //qianjin
+      	stick1UD = center_y1 - 7500;
+      	//stick1LR = center_x1 - 8000;
       }
      else if(startcount > Stage2time  && startcount <= Stage3time ) { //wending
       	stick1UD = center_y1; 
+      	//stick1LR = center_x1; 
       }
-      else if(startcount > Stage3time  && startcount <= Stage4time ) { //wending
-      	stick2UD = center_y2 + 32767*0.6 ;//? 
+      else if(startcount > Stage3time  && startcount <= Stage4time ) { //wending // left
+      	//stick2UD = center_y2 + 32767*0.6 ;//hou mian you fu hao//left right
+          //stick1UD =  center_y1 + 7500;
+          //stick2UD =  center_y2 - 7500;
+      	stick1LR = center_x1 - 7500 ;  // left
       }
-     else if(startcount >  Stage4time +30)
-       {   
+     else if(startcount >  Stage4time && startcount <= Stage5time ) //xuanting
+      {   
        	//ardrone_academy_navdata_emergency();
-       	 autoflyflag  =  0;
-       }
+       	 //autoflyflag  =  0;
+      	 //stick2UD = center_y2 ;
+               stick1UD = center_y1; 
+               stick1LR = center_x1 ; 
+      }
+      else if(startcount >  Stage5time && startcount <= Stage6time ) //back
+      {
+      	stick1UD = center_y1 + 7500;
+      }
+      else if(startcount >  Stage6time && startcount <= Stage7time ) //xuanting
+      {
+      	stick1UD = center_y1;
+      }
+      else if( startcount > Stage7time ) // shoudong
+      {
+              autoflyflag  =  0;
+      }
+
 }
   //if(refresh_values)// Axis values to refresh
     {
@@ -226,7 +263,7 @@ else
           		enable = 0;
 	}
 
-      startcount++;//frame counter
+      startcount++;  //frame counter
       printf("startcount: %d\n",startcount );
 
 
