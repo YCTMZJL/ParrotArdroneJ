@@ -179,93 +179,49 @@ else
       if(startcount > STARTPOINT && startcount < STARTPOINT + Takofftimes) { ardrone_academy_navdata_takeoff(); }
       int Stage1time = STARTPOINT + 500 ;//xuanting 
       /////////////////////////////////////////////////////
-      int Stage2time = Stage1time + 65 ;//move // left
+      int Stage2time = Stage1time + 70 ;//move
       int Stage3time = Stage2time + 250;//xuanting
-      int Stage4time = Stage3time + 65 ;//move // qianjin
+      int Stage4time = Stage3time + 70 ;//move
       int Stage5time = Stage4time + 250 ;//xuanting
-      int Stage6time = Stage5time + 65 ;//move //qianjin + right
+      int Stage6time = Stage5time + 120 ;//move
       int Stage7time = Stage6time + 250;//xuanting
-      int Stage8time = Stage7time + 65;//move // qianjin
-      int Stage9time = Stage8time + 250;//xuanting
-      int Stage10time = Stage9time + 65;//move//left
-      int Stage11time = Stage10time + 250;//xuanting
-      int Stage12time = Stage11time + 65;//move //back
-      int Stage13time = Stage12time + 250;//xuanting
-      int Stage14time = Stage13time + 65;//move //right + back
-      int Stage15time = Stage14time + 250;//xuanting
-      int Stage16time = Stage15time + 65;//back
       
       /////////////////////////////////////////////////////////////////////////////////////Step 1
-      if(startcount  > Stage1time && startcount  <= Stage2time ) { //left
-      	stick1LR = center_x1 - 8000 ;  // left
+      if(startcount  > Stage1time && startcount  <= Stage2time ) { //qianjin + left
+      	stick1UD = center_y1 - 9000;//qianjin
+      	stick1LR = center_x1 - 9000 ;  // left
+      	//stick2UD = center_y1 - 7000;
       }
      else if(startcount > Stage2time  && startcount <= Stage3time ) { //xuanting
-      	//stick1UD = center_y1; 
+      	stick1UD = center_y1; 
       	stick1LR = center_x1;
+      	//stick2UD = center_y1 ;
       }
-      else if(startcount > Stage3time  && startcount <= Stage4time ) { // qianjin
-      	stick1UD = center_y1 - 8000;//qianjin
+      else if(startcount > Stage3time  && startcount <= Stage4time ) { // qianjin + right
+      	stick1UD = center_y1 - 9000;//qianjin
+      	stick1LR = center_x1 + 9000 ;  // right
+      	//stick2UD = center_y1 - 7000;
       }
      else if(startcount >  Stage4time && startcount <= Stage5time ) //xuanting
       {   
-              stick1UD = center_y1;//
+              stick1LR = center_x1 ; 
+      	stick1UD = center_y1;
       }
-      else if(startcount >  Stage5time && startcount <= Stage6time ) //qianjin + right
+      else if(startcount >  Stage5time && startcount <= Stage6time ) //back
       {
-      	stick1UD = center_y1 - 9000;//qianjin
-      	stick1LR = center_x1 + 9000 ;  // right
+      	stick1UD = center_y1 + 8000;
+      	//stick2UD = center_y1 + 7000;
       }
       else if(startcount >  Stage6time && startcount <= Stage7time ) //xuanting
       {
       	stick1UD = center_y1;
-      	stick1LR = center_x1;
+      	//stick2UD = center_y1;
       }
-      else if(startcount >  Stage7time && startcount <= Stage8time ) //qianjin
-      {
-      	stick1UD = center_y1 - 8000;//qianjin
-      }
-      else if(startcount >  Stage8time && startcount <= Stage9time ) //xuanting
-      {
-      	stick1UD = center_y1 ; 
-      }
-      else if(startcount >  Stage9time && startcount <= Stage10time ) //left
-      {
-      	stick1LR = center_x1 -  8000;//left
-      }
-      else if(startcount >  Stage10time && startcount <= Stage11time ) //xuanting
-      {
-      	stick1LR = center_x1 ;
-      }
-      else if(startcount >  Stage11time && startcount <= Stage12time ) //back
-      {
-      	stick1UD = center_y1 + 8000;//back
-      }
-      else if(startcount >  Stage12time && startcount <= Stage13time ) //xuanting
-      {
-      	stick1UD = center_y1 ;  //xuanting
-      }
-      else if(startcount >  Stage13time && startcount <= Stage14time ) //back + right
-      {
-      	stick1UD = center_y1 + 9000;//back
-      	stick1LR = center_x1 + 9000 ;  // right
-      }
-     else if(startcount >  Stage14time && startcount <= Stage15time ) //xuanting
-      {
-      	stick1UD = center_y1 ;
-      	stick1LR = center_x1  ; 
-      }
-      else if(startcount >  Stage15time && startcount <= Stage16time ) //back
-      {
-      	stick1UD = center_y1 + 8000;
-      	//stick1LR = center_x1  ; 
-      }
-      else if(startcount >  Stage16time)//xuanting
-      {
-      	stick1UD = center_y1 ;
-      	stick1LR = center_x1 ; 
+     else if(startcount >  Stage7time  )
+     {
       	autoflyflag = 0;
-      }
-
+      } 
+     
      /* else if(startcount >  Stage29time && startcount <= Stage30time ) // up
       {
               stick2UD = center_y2 - 7500;
