@@ -181,21 +181,21 @@ else
       int Stage1time = STARTPOINT + 500 ;//xuanting 
       /////////////////////////////////////////////////////
         // 8bianxing
-      int Stage2time = Stage1time + 50 ;//move // right 
+      int Stage2time = Stage1time + 55 ;//move // right 
       int Stage3time = Stage2time + 250;//xuanting
-      int Stage4time = Stage3time + 50 ;//move // right+qianjin
+      int Stage4time = Stage3time + 45 ;//move // right+qianjin
       int Stage5time = Stage4time + 250 ;//xuanting
-      int Stage6time = Stage5time + 50 ;//move //qianjin
+      int Stage6time = Stage5time + 55 ;//move //qianjin
       int Stage7time = Stage6time + 250;//xuanting
-      int Stage8time = Stage7time + 50;//move // qianjin+left
+      int Stage8time = Stage7time + 45;//move // qianjin+left
       int Stage9time = Stage8time + 250;//xuanting
-      int Stage10time = Stage9time + 50;//move//left
+      int Stage10time = Stage9time + 55;//move//left
       int Stage11time = Stage10time + 250;//xuanting
-      int Stage12time = Stage11time + 50;//move //houtui+left
+      int Stage12time = Stage11time + 45;//move //houtui+left
       int Stage13time = Stage12time + 250;//xuanting
-      int Stage14time = Stage13time + 50;//move //houtui
+      int Stage14time = Stage13time + 55;//move //houtui
       int Stage15time = Stage14time + 250;//xuanting
-      int Stage16time = Stage15time + 50;//houtui+right
+      int Stage16time = Stage15time + 45;//houtui+right
    
 
 
