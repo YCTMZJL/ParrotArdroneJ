@@ -181,15 +181,15 @@ else
       /////////////////////////////////////////////////////
       int Stage2time = Stage1time + 90 ;//qianjin
       int Stage3time = Stage2time + 250;//xuanting
-      int Stage4time = Stage3time + 45 ;//houtui
+      int Stage4time = Stage3time + 45 ;//right
       int Stage5time = Stage4time + 250 ;//xuanting
-      int Stage6time = Stage5time + 45 ;//right+ qianjin
+      int Stage6time = Stage5time + 30 ;//right+ houtui
       int Stage7time = Stage6time + 250;//xuanting
-      int Stage8time = Stage7time + 45;//left + houtui
+      int Stage8time = Stage7time + 35;//houtui
       int Stage9time = Stage8time + 250;//xuanting
-      int Stage10time = Stage9time + 45;//right+ houtui
-      //int Stage11time = Stage10time + 250;//xuanting
-      //int Stage12time = Stage11time + 45;//left
+      int Stage10time = Stage9time + 30;//left + houtui
+      int Stage11time = Stage10time + 250;//xuanting
+      int Stage12time = Stage11time + 45;//left
 
 
 
@@ -202,45 +202,51 @@ else
      else if(startcount > Stage2time  && startcount <= Stage3time ) { //xuanting
       	stick1UD = center_y1; 
       }
-      else if(startcount > Stage3time  && startcount <= Stage4time ) { // houtui
-      	stick1UD = center_y1 + 8000 ;  // houtui
+      else if(startcount > Stage3time  && startcount <= Stage4time ) { //  right
+      	stick1LR = center_x1 + 8000 ;  // right
       }
      else if(startcount >  Stage4time && startcount <= Stage5time ) //xuanting
       {   
-              stick1UD = center_y1 ; 
+              stick1LR = center_x1 ; 
       }
-      else if(startcount >  Stage5time && startcount <= Stage6time ) //right + qianjin
+      else if(startcount >  Stage5time && startcount <= Stage6time ) //right + houtui
       {
-      	stick1LR = center_x1 + 9000;//right
-      	stick1UD = center_y1 - 9000;//qianjin
+      	stick1LR = center_x1 +9000;//right
+      	stick1UD = center_y1 + 9000;//houtui
       }
       else if(startcount >  Stage6time && startcount <= Stage7time ) //xuanting
       {
       	stick1LR = center_x1 ; 
       	stick1UD = center_y1;
       }
-       else if(startcount >  Stage7time && startcount <= Stage8time ) //left + houtui
+       else if(startcount >  Stage7time && startcount <= Stage8time ) //houtui
       {
-      	stick1LR = center_x1  - 9000;//left
-      	stick1UD = center_y1 + 9000;//houtui
+      	stick1UD = center_y1 + 8000;//houtui
       }
        else if(startcount >  Stage8time && startcount <= Stage9time ) //xuanting
       {
-      	stick1LR = center_x1;
-      	stick1UD = center_y1;
+      	stick1UD = center_y1 ;
       }
-      else if(startcount >  Stage9time && startcount <= Stage10time ) //houtui + right
+      else if(startcount >  Stage9time && startcount <= Stage10time ) //houtui + left
       {
-      	stick1LR = center_x1 + 9000;//lright
+      	stick1LR = center_x1 -9000;//left
       	stick1UD = center_y1 + 9000;//houtui
       }
-       else if(startcount >  Stage10time )//&& startcount <= Stage11time ) //xuanting
+       else if(startcount >  Stage10time && startcount <= Stage11time ) //xuanting
       {
-      	stick1UD = center_y1;
       	stick1LR = center_x1;//
+      }
+       else if(startcount >  Stage11time && startcount <= Stage12time ) //left
+      {
+      	stick1LR = center_x1 - 8000;
+      	//stick1UD = center_y1;
+      }
+      else if(startcount > Stage12time)
+      {
+      	stick1LR = center_x1;
       	autoflyflag = 0;
       }
-      
+
      
      /* else if(startcount >  Stage29time && startcount <= Stage30time ) // up
       {
